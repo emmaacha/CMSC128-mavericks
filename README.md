@@ -1,6 +1,6 @@
 # CMSC 128 Course Work
 
-### Members
+### GROUP 1 Members
  - Acha, Emmalyn  
  - Chico, Melzar Jan  
  - Jabello, Vergel  
