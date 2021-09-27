@@ -1,8 +1,8 @@
 # CMSC 128 Course Work
   
-  Acha, Emmalyn\n
-  Chico, Melzar Jan\n 
-  Jabello, Vergel\n
-  Mondido, Dianne\n
+  Acha, Emmalyn  
+  Chico, Melzar Jan  
+  Jabello, Vergel  
+  Mondido, Dianne  
   
   BS Computer Science III - B
