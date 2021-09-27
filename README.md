@@ -4,5 +4,7 @@
  - Chico, Melzar Jan  
  - Jabello, Vergel  
  - Mondido, Dianne  
-  
- BS Computer Science III - B
+
+# Access our Trello Board: 
+
+BS Computer Science III - B
