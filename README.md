@@ -9,5 +9,5 @@
 ### Invite to our Trello Board:
  - Link: https://trello.com/invite/b/7D0sNCCh/5163e630480e6c82498b4dab9c1300f9/mavericks (don't share omg)
 
-</br>
+
 > BS Computer Science III - B
