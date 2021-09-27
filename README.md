@@ -11,5 +11,5 @@
 
 
 ```css 
- #BS Computer Science III
+ BS Computer Science III
 ```
